@@ -1,0 +1,4 @@
+# personal notes and old copies - not for GitHub
+notes/
+.ipynb_checkpoints/
+__pycache__/
