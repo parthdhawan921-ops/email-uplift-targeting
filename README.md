@@ -1,4 +1,4 @@
-# Who should get the email? Uplift targeting on a 64,000-customer randomised test
+# Email A/B test and uplift targeting: a 64,000-customer randomised test
 
 **Business question:** should we send the men's email, the women's email, or nothing, and to which
 customers, to make the most extra profit?
@@ -6,6 +6,8 @@ customers, to make the most extra profit?
 **Answer:** send the men's email to everyone and keep a small no-email holdout. It earns about
 **$131 extra profit per 1,000 customers**. A cross-validated uplift model that picked customers one by one
 earned less ($73), in every margin and cost scenario tested.
+
+**Interactive case file:** [parthdhawan921-ops.github.io/Parth_Personal/#email](https://parthdhawan921-ops.github.io/Parth_Personal/#email)
 
 ## Results
 | | Visit lift | Conversion lift | Spend lift per customer (95% CI) |
