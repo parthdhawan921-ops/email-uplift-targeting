@@ -3,9 +3,9 @@
 **Business question:** should we send the men's email, the women's email, or nothing, and to which
 customers, to make the most extra profit?
 
-**Answer:** send the men's email to everyone and keep a small no-email holdout. It earns about
-**$131 extra profit per 1,000 customers**. A cross-validated uplift model that picked customers one by one
-earned less ($73), in every margin and cost scenario tested.
+- **What I did:** Analysed a 64,000-customer email test (men's email, women's email or none) and tried a machine-learning model that picks who to email.
+- **What I found:** **The men's email earns $131 extra profit per 1,000 customers.** The machine-learning model earned only $73, less in every scenario tested.
+- **Why it matters:** Send the men's email to everyone, keep a small holdout to keep measuring, and skip the complex model.
 
 **Interactive case file:** [parthdhawan921-ops.github.io/Parth_Personal/#email](https://parthdhawan921-ops.github.io/Parth_Personal/#email)
 
